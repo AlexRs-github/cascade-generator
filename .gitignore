@@ -1,0 +1,19 @@
+#vscode ignore
+.vscode/*
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+#Folders to ignore
+neg
+data
+info
+uglies
+
+#Files to ignore
+master.txt
+bg.txt
+*.vec
+positive5396.jpg
+*.jpg
